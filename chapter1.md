@@ -5,7 +5,7 @@ description: >-
 
 
 ---
-## Sample exercise
+## Test exercise 1
 
 ```yaml
 type: NormalExercise

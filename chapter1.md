@@ -1,35 +1,37 @@
 ---
-title: Test
+title: Chapter 1
 description: >-
   Test
 
 
 ---
-## Test exercise 1
+## Insert exercise title here
 
 ```yaml
-type: NormalExercise
-lang: python
-xp: 100
-skills: 2
-key: a27dd0b923
+type: PureMultipleChoiceExercise
+
+xp: 
+
+key: 0247bd9dc7
 ```
 
-Testing, 1, 2, 3... this is the assignment text.
+What color is the sky?
 
-`@instructions`
-Step 1: Test
-Step 2: Test
-Step 3: Test
 
 `@hint`
-You should probably test more : )
+Look up silly! : )
 
 
 
 
 
+`@possible_answers`
+- blue
+- red
+- green
 
+`@feedbacks`
+test_mc(1, ["yes", "no", "no"]
 
 
 
